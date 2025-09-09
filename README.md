@@ -16,7 +16,7 @@ A PID controller is implemented to minimize the error between the robot’s posi
 
 - Extensible for both Gazebo simulation and real-world experiments
 
-## Applications
+## Applications
 
 - Educational robotics (learning PID control & sensor-based navigation)
 
